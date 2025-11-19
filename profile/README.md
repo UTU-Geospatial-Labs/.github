@@ -15,6 +15,7 @@ This Master's level course provides practical skills in geospatial data manageme
 ### Tutorials
 
 [OpenLayers webmap tutorial](https://github.com/UTU-Geospatial-Labs/MAAN7771-openlayers-tutorial)
+
 [Leaflet webmap tutorial](https://github.com/UTU-Geospatial-Labs/MAAN7771-leaflet-tutorial/tree/main)
 
 ### Webmaps
