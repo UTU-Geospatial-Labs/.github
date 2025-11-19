@@ -24,3 +24,8 @@ The course hosts a geovisualisation challenge where students work in groups to c
 
 - [Disturbance of the Eider population due to human activity](https://github.com/UTU-Geospatial-Labs/2024-webmap-common-eider)
 - [Wind turbine impacts on cranes](https://github.com/UTU-Geospatial-Labs/MAAN7771-2024-windturbines-and-cranes)
+
+
+# Research
+
+Researcers, projects and teams are welcome to share their work via repositories and link them here.
