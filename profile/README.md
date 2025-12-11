@@ -23,7 +23,7 @@ The course hosts a geovisualisation challenge where students work in groups to c
 **2025**
 
 - [Attribute addicts: After school activities in Turku](https://github.com/UTU-Geospatial-Labs/2025-webmap-attribute-addicts)
-- [Archipelagis Elderly population projections in SW Finland](https://github.com/UTU-Geospatial-Labs/2025-webmap-archipelagis)
+- [Archipelagis: Elderly population projections in SW Finland](https://github.com/UTU-Geospatial-Labs/2025-webmap-archipelagis)
 - [Brezeln: Healthcare accessibility in Southwest Finland](https://github.com/UTU-Geospatial-Labs/2025-webmap-brezeln)
 - [Geobuddies: The Turku tramway: Accessibility of services](https://github.com/UTU-Geospatial-Labs/2025-webmap-geobuddies)
 - [Polar bears: Turku tramline impact on service accessibility](https://github.com/UTU-Geospatial-Labs/2025-webmap-polar-bears)
