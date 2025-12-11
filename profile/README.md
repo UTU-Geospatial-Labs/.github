@@ -20,6 +20,14 @@ This Master's level course provides practical skills in geospatial data manageme
 ### Webmaps
 The course hosts a geovisualisation challenge where students work in groups to create interactive webmaps on a challenge topic provided by a regional industry stakeholder. Explore students' work:
 
+**2025**
+
+- [Attribute addicts: After school activities in Turku](https://github.com/UTU-Geospatial-Labs/2025-webmap-attribute-addicts)
+- [Archipelagis Elderly population projections in SW Finland](https://github.com/UTU-Geospatial-Labs/2025-webmap-archipelagis)
+- [Brezeln: Healthcare accessibility in Southwest Finland](https://github.com/UTU-Geospatial-Labs/2025-webmap-brezeln)
+- [Geobuddies: The Turku tramway: Accessibility of services](https://github.com/UTU-Geospatial-Labs/2025-webmap-geobuddies)
+- [Polar bears: Turku tramline impact on service accessibility](https://github.com/UTU-Geospatial-Labs/2025-webmap-polar-bears)
+
 **2024**
 
 - [Disturbance of the Eider population due to human activity](https://github.com/UTU-Geospatial-Labs/2024-webmap-common-eider)
