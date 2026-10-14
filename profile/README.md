@@ -14,8 +14,7 @@ This Master's level course provides practical skills in geospatial data manageme
 
 ### Tutorials
 
-- [Full OpenLayers webmap tutorial](https://utu-geospatial-labs.github.io/openlayers-tutorial/)
-  Learn how to create a webmap from the ground up using OpenLayers, an open-source JavaScript library for web mapping.
+- [Full OpenLayers webmap tutorial](https://utu-geospatial-labs.github.io/openlayers-tutorial/): Learn how to create a webmap from the ground up using OpenLayers, an open-source JavaScript library for web mapping.
 - [Small Leaflet webmap tutorial](https://github.com/UTU-Geospatial-Labs/MAAN7771-leaflet-tutorial/tree/main)
 
 ### Webmaps
